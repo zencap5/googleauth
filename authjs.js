@@ -69,7 +69,7 @@ window.onload = function() {
         }
       }
 
-      if (!token && curUrl.pathname.indexOf('welcome') !== -1) {
+      if (!token && curUrl.pathname.indexOf('') !== -1) {
         document.location.href = login_path;
       }
     }
