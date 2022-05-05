@@ -1,5 +1,5 @@
 var login_path = "/"
-var redirect_uri = "https://miguels-five-star-site-ff13e9.webflow.io/welcome"
+var redirect_uri = "https://miguels-five-star-site-ff13e9.webflow.io/auth/"
 var xano_oauth_init_url = "https://x8ki-letl-twmt.n7.xano.io/api:0_oSKPWX/oauth/google/init"
 var xano_oauth_continue_url = "https://x8ki-letl-twmt.n7.xano.io/api:0_oSKPWX/oauth/google/continue"
 var formHeaders = [];
