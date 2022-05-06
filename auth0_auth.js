@@ -39,7 +39,7 @@ function loginResponse(res) {
 }
 
 //button for intializing the authentication api
-var authButton = document.querySelector("#authButton");
+var authButton = document.querySelector("#authButton2");
 if (authButton) {
   authButton.addEventListener("click", (event) => {
     initOauth();
